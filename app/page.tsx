@@ -115,7 +115,7 @@ projects: {
       description:
         "A food price monitoring website for culinary MSMEs with trend analysis, prediction, recommendation, and early warning features.",
       tools: ["Next.js", "Tailwind", "Supabase"],
-      image: "/projects/pantau-pangan.png",
+      image: "/projects/pantau-pangan2.svg",
       link: "https://pantaupangan-banyumas.netlify.app",
     },
     {
@@ -133,7 +133,7 @@ projects: {
       description:
         "A professional law firm profile website with responsive layout, service pages, and contact section.",
       tools: ["Next.js", "UI Design"],
-      image: "/projects/law-firm.png",
+      image: "/projects/law-firm2.svg",
       link: "https://rta-lawfirm.netlify.app/",
     },
     {
@@ -142,18 +142,18 @@ projects: {
       description:
         "A responsive admin dashboard for monitoring patient infusion status, active devices, alerts, and real-time safety conditions with a clean mobile-first interface.",
       tools: ["Next.js", "Tailwind CSS", "Mobile UI"],
-      image: "/projects/autofusion.png",
+      image: "/projects/autofusion2.svg",
       link: "https://autofusion-ten.vercel.app",
     },
-    {
-      title: "Birthday Date Invitation",
-      category: "Digital Invitation",
-      description:
-        "Aesthetic digital birthday invitation website with event details, date highlight, gallery section, and responsive layout for mobile and desktop.",
-      tools: ["HTML", "Tailwind", "Invitation UI"],
-      image: "/projects/birthday-inv.png",
-      link: "",
-    },
+    // {
+    //   title: "Birthday Date Invitation",
+    //   category: "Digital Invitation",
+    //   description:
+    //     "Aesthetic digital birthday invitation website with event details, date highlight, gallery section, and responsive layout for mobile and desktop.",
+    //   tools: ["HTML", "Tailwind", "Invitation UI"],
+    //   image: "/projects/birthday-inv.png",
+    //   link: "",
+    // },
   ],
 },
     services: {
@@ -302,7 +302,7 @@ projects: {
       description:
         "Website buat monitoring harga pangan UMKM kuliner, lengkap dengan trend, prediction, recommendation, dan early warning.",
       tools: ["Next.js", "Tailwind", "Supabase"],
-      image: "/projects/pantau-pangan.png",
+      image: "/projects/pantau-pangan2.svg",
       link: "https://pantaupangan-banyumas.netlify.app",
     },
     {
@@ -320,7 +320,7 @@ projects: {
       description:
         "Website profil law firm dengan look profesional, responsive, plus halaman services dan contact.",
       tools: ["Next.js", "UI Design"],
-      image: "/projects/law-firm.png",
+      image: "/projects/law-firm2.svg",
       link: "https://rta-lawfirm.netlify.app/",
     },
     {
@@ -329,18 +329,18 @@ projects: {
       description:
         "Dashboard admin buat monitoring status infus pasien secara real-time, mulai dari total pasien, perangkat aktif, alert, sampai status aman dengan UI yang clean dan mobile-first.",
       tools: ["Next.js", "Tailwind CSS", "Mobile UI"],
-      image: "/projects/autofusion.png",
+      image: "/projects/autofusion2.svg",
       link: "https://autofusion-ten.vercel.app",
     },
-    {
-      title: "Birthday Date Invitation",
-      category: "Digital Invitation",
-      description:
-        "Website undangan birthday yang aesthetic, lengkap dengan detail acara, highlight tanggal, gallery section, dan tampilan responsive buat mobile maupun desktop.",
-      tools: ["HTML", "Tailwind", "Invitation UI"],
-      image: "/projects/birthday-inv.png",
-      link: "",
-    },
+    // {
+    //   title: "Birthday Date Invitation",
+    //   category: "Digital Invitation",
+    //   description:
+    //     "Website undangan birthday yang aesthetic, lengkap dengan detail acara, highlight tanggal, gallery section, dan tampilan responsive buat mobile maupun desktop.",
+    //   tools: ["HTML", "Tailwind", "Invitation UI"],
+    //   image: "/projects/birthday-inv.png",
+    //   link: "",
+    // },
   ],
 },
     services: {

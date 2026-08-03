@@ -1,0 +1,37 @@
+<svg width="1200" height="960" viewBox="0 0 1200 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ECFEFF"/><stop offset="1" stop-color="#DBEAFE"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="470" y1="360" x2="1010" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E"/><stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#164E63" flood-opacity="0.18"/></filter>
+  </defs>
+  <rect width="1200" height="960" rx="44" fill="url(#bg)"/>
+  <circle cx="1010" cy="130" r="190" fill="#99F6E4" fill-opacity="0.27"/><circle cx="150" cy="840" r="220" fill="#93C5FD" fill-opacity="0.25"/>
+  <g filter="url(#shadow)">
+    <rect x="108" y="108" width="984" height="744" rx="34" fill="white"/>
+    <rect x="108" y="108" width="984" height="86" rx="34" fill="#0F172A"/><rect x="108" y="160" width="984" height="34" fill="#0F172A"/>
+    <circle cx="150" cy="151" r="10" fill="#F87171"/><circle cx="184" cy="151" r="10" fill="#FBBF24"/><circle cx="218" cy="151" r="10" fill="#34D399"/><rect x="280" y="140" width="270" height="22" rx="11" fill="#334155"/>
+    <rect x="160" y="242" width="260" height="548" rx="26" fill="#F8FAFC"/>
+    <circle cx="204" cy="294" r="22" fill="#0F766E"/><path d="M204 279v30M189 294h30" stroke="white" stroke-width="5" stroke-linecap="round"/>
+    <text x="242" y="302" fill="#0F172A" font-family="Arial, sans-serif" font-size="23" font-weight="700">AutoFusion</text>
+    <text x="194" y="365" fill="#64748B" font-family="Arial, sans-serif" font-size="16">MONITORING</text>
+    <rect x="184" y="391" width="212" height="52" rx="16" fill="#CCFBF1"/><circle cx="211" cy="417" r="8" fill="#0F766E"/>
+    <text x="234" y="424" fill="#115E59" font-family="Arial, sans-serif" font-size="17" font-weight="700">Overview</text>
+    <circle cx="211" cy="481" r="8" fill="#94A3B8"/><text x="234" y="488" fill="#475569" font-family="Arial, sans-serif" font-size="17">Patients</text>
+    <circle cx="211" cy="545" r="8" fill="#94A3B8"/><text x="234" y="552" fill="#475569" font-family="Arial, sans-serif" font-size="17">Devices</text>
+    <circle cx="211" cy="609" r="8" fill="#94A3B8"/><text x="234" y="616" fill="#475569" font-family="Arial, sans-serif" font-size="17">Alerts</text>
+    <rect x="184" y="720" width="212" height="1" fill="#E2E8F0"/><text x="184" y="759" fill="#94A3B8" font-family="Arial, sans-serif" font-size="14">Patient safety monitoring</text>
+    <text x="470" y="290" fill="#0F172A" font-family="Arial, sans-serif" font-size="30" font-weight="700">Infusion Monitor</text>
+    <text x="470" y="325" fill="#64748B" font-family="Arial, sans-serif" font-size="18">Real-time patient and device status</text>
+    <rect x="470" y="370" width="250" height="170" rx="24" fill="url(#hero)"/><text x="500" y="415" fill="#CCFBF1" font-family="Arial, sans-serif" font-size="17">ACTIVE DEVICES</text><text x="500" y="480" fill="white" font-family="Arial, sans-serif" font-size="54" font-weight="700">24</text><text x="500" y="515" fill="#CFFAFE" font-family="Arial, sans-serif" font-size="16">All systems online</text>
+    <rect x="748" y="370" width="270" height="170" rx="24" fill="#ECFDF5"/><text x="778" y="415" fill="#166534" font-family="Arial, sans-serif" font-size="17">SAFETY STATUS</text><text x="778" y="477" fill="#16A34A" font-family="Arial, sans-serif" font-size="35" font-weight="700">98.6%</text><text x="778" y="515" fill="#166534" font-family="Arial, sans-serif" font-size="16">Stable conditions</text>
+    <rect x="470" y="584" width="548" height="206" rx="24" fill="#F8FAFC"/><text x="500" y="630" fill="#0F172A" font-family="Arial, sans-serif" font-size="19" font-weight="700">Patient status</text>
+    <rect x="500" y="655" width="488" height="36" rx="12" fill="#E0F2FE"/><text x="520" y="679" fill="#0F172A" font-family="Arial, sans-serif" font-size="15" font-weight="700">Patient</text><text x="730" y="679" fill="#0F172A" font-family="Arial, sans-serif" font-size="15" font-weight="700">Device</text><text x="890" y="679" fill="#0F172A" font-family="Arial, sans-serif" font-size="15" font-weight="700">Status</text>
+    <text x="520" y="725" fill="#475569" font-family="Arial, sans-serif" font-size="15">Room 102</text><text x="730" y="725" fill="#475569" font-family="Arial, sans-serif" font-size="15">AF-024</text><circle cx="880" cy="719" r="7" fill="#22C55E"/><text x="897" y="725" fill="#166534" font-family="Arial, sans-serif" font-size="15">Safe</text>
+    <text x="520" y="765" fill="#475569" font-family="Arial, sans-serif" font-size="15">Room 108</text><text x="730" y="765" fill="#475569" font-family="Arial, sans-serif" font-size="15">AF-031</text><circle cx="880" cy="759" r="7" fill="#FBBF24"/><text x="897" y="765" fill="#92400E" font-family="Arial, sans-serif" font-size="15">Review</text>
+  </g>
+  <text x="108" y="908" fill="#475569" font-family="Arial, sans-serif" font-size="20" font-weight="700">A clean mobile-first dashboard for safer infusion monitoring</text>
+</svg>
