@@ -119,6 +119,15 @@ projects: {
       link: "https://pantaupangan-banyumas.netlify.app",
     },
     {
+      title: "SiCek PTM",
+      category: "Health Screening Website",
+      description:
+        "A public health screening website that helps users identify risk factors for hypertension and diabetes mellitus through an easy-to-use, educational screening flow.",
+      tools: ["Next.js", "Tailwind CSS", "Supabase"],
+      image: "/projects/sicek-ptm.svg",
+      link: "https://sicek-ptm123.vercel.app",
+    },
+    {
       title: "Law Firm Website",
       category: "Company Profile",
       description:
@@ -295,6 +304,15 @@ projects: {
       tools: ["Next.js", "Tailwind", "Supabase"],
       image: "/projects/pantau-pangan.png",
       link: "https://pantaupangan-banyumas.netlify.app",
+    },
+    {
+      title: "SiCek PTM",
+      category: "Website Screening Kesehatan",
+      description:
+        "Website screening kesehatan publik yang membantu user mengenali faktor risiko hipertensi dan diabetes melitus lewat alur screening yang simpel, informatif, dan edukatif.",
+      tools: ["Next.js", "Tailwind CSS", "Supabase"],
+      image: "/projects/sicek-ptm.svg",
+      link: "https://sicek-ptm123.vercel.app",
     },
     {
       title: "Law Firm Website",
