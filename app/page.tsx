@@ -143,7 +143,7 @@ projects: {
         "Aesthetic digital birthday invitation website with event details, date highlight, gallery section, and responsive layout for mobile and desktop.",
       tools: ["HTML", "Tailwind", "Invitation UI"],
       image: "/projects/birthday-inv.png",
-      link: "https://inv-birthday-date.netlify.app",
+      link: "",
     },
   ],
 },
