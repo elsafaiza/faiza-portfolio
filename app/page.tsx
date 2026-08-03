@@ -321,7 +321,7 @@ projects: {
         "Website undangan birthday yang aesthetic, lengkap dengan detail acara, highlight tanggal, gallery section, dan tampilan responsive buat mobile maupun desktop.",
       tools: ["HTML", "Tailwind", "Invitation UI"],
       image: "/projects/birthday-inv.png",
-      link: "https://inv-birthday-date.netlify.app",
+      link: "",
     },
   ],
 },
